@@ -1,1 +1,1 @@
-    printf("Enter operator: ");
+ testing out the syntax of a for loop
