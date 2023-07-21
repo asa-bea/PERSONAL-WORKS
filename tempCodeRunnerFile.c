@@ -1,1 +1,3 @@
- testing out the syntax of a for loop
+ i);
+        i++;
+    }
